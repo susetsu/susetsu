@@ -260,8 +260,9 @@ Ingeniero de Sistemas con **7+ años de experiencia** desarrollando soluciones f
 
 ---
 
-## 🎯 Especialidades
 
+## 🎯 Especialidades
+<div align="center">
 <table>
   <tr>
     <td align="center" width="25%">
@@ -290,6 +291,8 @@ Ingeniero de Sistemas con **7+ años de experiencia** desarrollando soluciones f
     </td>
   </tr>
 </table>
+
+</div>
 
 ---
 

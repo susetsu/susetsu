@@ -8,7 +8,7 @@
 
   <!-- Programming Languages Section -->
   <text x="20" y="50" font-family="monospace" font-size="14" font-weight="bold" fill="#70a5fd">
-    💻 Lenguajes de Programación
+    Lenguajes de Programacion
   </text>
 
   <!-- JavaScript 45% -->
@@ -55,7 +55,7 @@
 
   <!-- DevOps Section -->
   <text x="20" y="235" font-family="monospace" font-size="14" font-weight="bold" fill="#70a5fd">
-    🚀 DevOps y Infraestructura
+    DevOps y Infraestructura
   </text>
 
   <text x="20" y="255" font-family="monospace" font-size="11" fill="#8b949e">
@@ -64,6 +64,6 @@
 
   <!-- Footer -->
   <text x="200" y="285" text-anchor="middle" font-family="monospace" font-size="10" fill="#8b949e">
-    📊 Basado en 8,353 commits • 2019-Actualmente • git.sigis.com.ve
+    Basado en 8,353 commits - 2019-Actualmente - git.sigis.com.ve
   </text>
 </svg>

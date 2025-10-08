@@ -226,7 +226,7 @@ Ingeniero de Sistemas con **7+ años de experiencia** desarrollando soluciones f
 
   #### 📈 Stack Tecnológico y DevOps
 
-  <img src="assets/images/real-language-stats.svg?v=2" alt="Stack Tecnológico" />
+  <img src="assets/images/real-language-stats.png" alt="Stack Tecnológico" />
 
   <br/>
 

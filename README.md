@@ -110,7 +110,6 @@ Ingeniero de Sistemas con **7+ años de experiencia** desarrollando soluciones f
         Exchange de criptomonedas con métricas únicas de trading<br/>
         <code>Angular</code> <code>TypeScript</code> <code>Emitter</code>
       </p>
-      <br/><br/>
     </td>
     <td width="50%">
       <h3 align="center"><img src="assets/images/gtr.png" width="30" height="30" /> GTRMax & GTRPlus</h3>

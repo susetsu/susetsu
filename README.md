@@ -99,7 +99,7 @@ Ingeniero de Sistemas con **7+ años de experiencia** desarrollando soluciones f
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center"><img src="assets/images/athenium.png" width="30" height="30" style="vertical-align: middle;" /> Athenium</h3>
+      <h3 align="center"><img src="assets/images/athenium.png" width="20" height="20" /> Athenium</h3>
       <div align="center">
         <a href="https://athenium.sigisqa.com/" target="_blank">
           <img src="https://img.shields.io/badge/Web_App-4285F4?style=flat-square&logo=google-chrome&logoColor=white" />
@@ -110,6 +110,7 @@ Ingeniero de Sistemas con **7+ años de experiencia** desarrollando soluciones f
         Exchange de criptomonedas con métricas únicas de trading<br/>
         <code>Angular</code> <code>TypeScript</code> <code>Emitter</code>
       </p>
+      <br/><br/>
     </td>
     <td width="50%">
       <h3 align="center"><img src="assets/images/gtr.png" width="30" height="30" /> GTRMax & GTRPlus</h3>

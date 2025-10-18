@@ -97,35 +97,47 @@ Ingeniero de Sistemas con **7+ años de experiencia** desarrollando soluciones f
       </p>
     </td>
   </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><img src="assets/images/athenium.png" width="30" height="30" style="vertical-align: middle;" /> Athenium</h3>
+      <div align="center">
+        <a href="https://athenium.sigisqa.com/" target="_blank">
+          <img src="https://img.shields.io/badge/Web_App-4285F4?style=flat-square&logo=google-chrome&logoColor=white" />
+        </a>
+      </div>
+      <p align="center">
+        <strong>En desarrollo</strong><br/>
+        Exchange de criptomonedas con métricas únicas de trading<br/>
+        <code>Angular</code> <code>TypeScript</code> <code>Emitter</code>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><img src="assets/images/gtr.png" width="30" height="30" /> GTRMax & GTRPlus</h3>
+      <div align="center">
+        <a href="https://play.google.com/store/apps/details?id=ve.com.sigis.gtr" target="_blank">
+          <img src="https://img.shields.io/badge/GTRMax_Android-414141?style=flat-square&logo=google-play&logoColor=white" />
+        </a>
+        <a href="https://apps.apple.com/us/app/gtrmax/id958196557" target="_blank">
+          <img src="https://img.shields.io/badge/GTRMax_iOS-0D96F6?style=flat-square&logo=app-store&logoColor=white" />
+        </a>
+        <a href="https://play.google.com/store/apps/details?id=ve.com.sigis.gtrplus" target="_blank">
+          <img src="https://img.shields.io/badge/GTRPlus_Android-414141?style=flat-square&logo=google-play&logoColor=white" />
+        </a>
+        <a href="https://apps.apple.com/us/app/gtrplus/id959691628" target="_blank">
+          <img src="https://img.shields.io/badge/GTRPlus_iOS-0D96F6?style=flat-square&logo=app-store&logoColor=white" />
+        </a>
+        <a href="https://app.gtrmax.com/" target="_blank">
+          <img src="https://img.shields.io/badge/Web_App-4285F4?style=flat-square&logo=google-chrome&logoColor=white" />
+        </a>
+      </div>
+      <p align="center">
+        <strong>Mantenimiento y migración de sistemas de mapas</strong><br/>
+        Sistema empresarial de seguimiento vehicular<br/>
+        <code>Sencha</code> <code>Cordova</code> <code>Leaflet</code> <code>PHP</code>
+      </p>
+    </td>
+  </tr>
 </table>
-
----
-
-<div align="center">
-  <h3><img src="assets/images/gtr.png" width="30" height="30" /> GTRMax & GTRPlus</h3>
-  <p>
-    <a href="https://play.google.com/store/apps/details?id=ve.com.sigis.gtr" target="_blank">
-      <img src="https://img.shields.io/badge/GTRMax_Android-414141?style=flat-square&logo=google-play&logoColor=white" />
-    </a>
-    <a href="https://apps.apple.com/us/app/gtrmax/id958196557" target="_blank">
-      <img src="https://img.shields.io/badge/GTRMax_iOS-0D96F6?style=flat-square&logo=app-store&logoColor=white" />
-    </a>
-    <a href="https://play.google.com/store/apps/details?id=ve.com.sigis.gtrplus" target="_blank">
-      <img src="https://img.shields.io/badge/GTRPlus_Android-414141?style=flat-square&logo=google-play&logoColor=white" />
-    </a>
-    <a href="https://apps.apple.com/us/app/gtrplus/id959691628" target="_blank">
-      <img src="https://img.shields.io/badge/GTRPlus_iOS-0D96F6?style=flat-square&logo=app-store&logoColor=white" />
-    </a>
-    <a href="https://app.gtrmax.com/" target="_blank">
-      <img src="https://img.shields.io/badge/Web_App-4285F4?style=flat-square&logo=google-chrome&logoColor=white" />
-    </a>
-  </p>
-  <p>
-    <strong>Mantenimiento y migración de sistemas de mapas</strong><br/>
-    Sistema empresarial de seguimiento vehicular con miles de usuarios activos<br/>
-    <strong>Móvil:</strong> <code>Sencha</code> <code>Cordova</code> | <strong>Web:</strong> <code>Leaflet</code> <code>PHP</code> <code>JavaScript</code>
-  </p>
-</div>
 
 ### 🏥 Otros Proyectos Relevantes
 

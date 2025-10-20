@@ -2,7 +2,7 @@
 
   # 👋 ¡Hola! Soy Luis González
 
-  <h3>🚀 Full Stack Engineer | Mobile & Web Specialist | 7+ años transformando ideas en soluciones digitales</h3>
+  <h3>🚀 System Engineer | Mobile & Web Specialist | 7+ años transformando ideas en soluciones digitales</h3>
 
   <p align="center">
     <a href="https://www.linkedin.com/in/lagl23/" target="_blank">

@@ -5,6 +5,9 @@
   <h3>🚀 System Engineer | Mobile & Web Specialist | 7+ años transformando ideas en soluciones digitales</h3>
 
   <p align="center">
+    <a href="https://susetsu.vercel.app/home" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    </a>
     <a href="https://www.linkedin.com/in/lagl23/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
@@ -335,6 +338,9 @@ Ingeniero de Sistemas con **7+ años de experiencia** desarrollando soluciones f
 
   ¿Tienes un proyecto interesante o buscas un desarrollador Full Stack comprometido?
 
+  <a href="https://susetsu.vercel.app/home">
+    <img src="https://img.shields.io/badge/Ver_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/lagl23/">
     <img src="https://img.shields.io/badge/Conectemos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>

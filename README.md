@@ -25,7 +25,7 @@ Ingeniero de Sistemas con **7+ años de experiencia** desarrollando soluciones f
 🌍 **Ubicación:** Venezuela
 💼 **Actualmente:** Analista de Desarrollo Tecnológico Senior @ Soluciones Integrales GIS C.A
 🎓 **Formación:** Ingeniero de Sistemas - UNEFA | Java SE8 Certified
-🌐 **Idiomas:** Español (Nativo) | Inglés (Intermedio - En continuo aprendizaje)
+🌐 **Idiomas:** Español (Nativo) | Inglés (Básico Alto)
 
 ---
 
@@ -314,7 +314,7 @@ Ingeniero de Sistemas con **7+ años de experiencia** desarrollando soluciones f
 ## 🌱 Actualmente
 
 - 🔭 Desarrollando nuevas features para aplicaciones empresariales de tracking y logística
-- 📚 Perfeccionando mi inglés con Open English
+- 📚 Cursando: n8n + MCP Automatización y agentes de IA inteligentes
 - 🎯 Explorando las últimas novedades de Flutter y Riverpod
 - 💡 Implementando arquitecturas limpias y principios SOLID en proyectos legacy
 - 💡 Contribuyendo a la comunidad open source con mejoras a plugins de Flutter
